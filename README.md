@@ -38,8 +38,8 @@ The dashboard provides a comprehensive view of customer churn behavior across de
 
 
 ## Screenshots
-![Description](/screenshots/customer churn 1.png)
-![Description](/screenshots/customer churn 2.png)
-![Description](/screenshots/customer churn 3.png)
+![Description](/screenshots/customerchurn1.png)
+![Description](/screenshots/customerchurn2.png)
+![Description](/screenshots/customerchurn3.png)
 
 
